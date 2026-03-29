@@ -168,3 +168,14 @@ Architected and implemented a **high-availability multi-cloud VPN solution** ena
 
 Rajat Rai
 Cloud & DevOps Engineer
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rajatjrai/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rajat%20Rai-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://rajatrai.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
