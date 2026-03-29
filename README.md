@@ -10,6 +10,10 @@ This project demonstrates real-world cloud networking, hybrid connectivity, and 
 
 ## 🏗️ Architecture
 
+<p align="center">
+  <img src="Architecture/architecture.png" alt="Architecture Diagram" width="800"/>
+</p>
+
 ### 🔹 Key Components
 
 ### Azure Side:
